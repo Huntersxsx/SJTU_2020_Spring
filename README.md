@@ -1,7 +1,7 @@
 ## <font face="楷体">说明</font>
 整理了上海交通大学2020春研究生的部分课程作业  
 **仅方便自己回顾**  
-<font color='red'>**部分作业有错，谨慎参考！！**</font>  
+<font color='red'>**部分作业可能存在问题，请谨慎参考！！**</font>  
 
 ## <font face="楷体">目录</font>
 [自然语言理解](https://github.com/Huntersxsx/SJTU_2020_Spring/tree/master/自然语言理解)  
